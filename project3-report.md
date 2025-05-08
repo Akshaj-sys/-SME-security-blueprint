@@ -18,11 +18,11 @@
   + **Physical:** Unauthorized access, Physical tampering and hardware failure
   + **Cyber:** Denial of service attacks, data theft, data manipulation
 * **Vulnerabilities:**
-* **Physical:** Weak access controls, unpatched systems and insider threats
-* **Cyber:** API security flaws, weak encryption and bias in AI models
+   + **Physical:** Weak access controls, unpatched systems and insider threats
+   + **Cyber:** API security flaws, weak encryption and bias in AI models
 * **Potential Impacts:**
-* **Physical:** Operational disruption, system downtime and security breach
-* **Digital:** Unauthorized transaction, identity theft and inaccurate lending decisions
+    + **Physical:** Operational disruption, system downtime and security breach
+    + **Digital:** Unauthorized transaction, identity theft and inaccurate lending decisions
 
 **3. Physical Security Measures**
 
@@ -118,7 +118,6 @@
     1. Security reference blueprint for financial services which provides structured approach to securing financial institutions
     2. Data security and cybersecurity compliance for fintech startups which is a practical guide and covers concepts like regulatory framework, compliance strategies and security best practices
   + **Emergency contacts:**
-
 1. Cybersecurity incident response team
 2. Regulatory and compliance authorities
 3. Cloud and IT infrastructure support
@@ -142,11 +141,8 @@
   + Security awareness training programs which are conducted quarterly for employees and once in every year for IT and finance teams
   + This program involves topics such as cyber hygiene, data protection and physical security aspects as well as physical security drills and cyber incident simulation
 * **Intended Audience:**
-
-Cybersecurity team of the organization employees, banking partners, regulatory authorities, third party vendors and service providers
-
+Cybersecurity team of the organization, employees, banking partners, regulatory authorities, third party vendors and service providers
 * **Presentation Medium:**
-
 Word document, PowerPoint presentation and a video explaining these concepts
 
 **10. Reflection**
