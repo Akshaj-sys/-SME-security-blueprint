@@ -4,41 +4,41 @@
 ## 1. Project Scope
 
 * **SME Description:**
-  + **Type of business:** Aye finance is a fintech startup providing business loans to small and micro businesses in India
-  + **Number of employees:** 9569 employees
-  + **Location(s):** Gurugram, Haryana
+  + Type of business: Aye finance is a fintech startup providing business loans to small and micro businesses in India
+  + Number of employees: 9569 employees
+  + Location(s): Gurugram, Haryana
 * **Key Assets:**
-  + **Physical:** Office infrastructure, data centres and IT hardware
-  + **Digital:** Cluster based lending platform, customer data and analytics
+  + Physical: Office infrastructure, data centres and IT hardware
+  + Digital: Cluster based lending platform, customer data and analytics
 
 ## 2. Risk Assessment
 
 * **Identified Threats:**
-  + **Physical:** Unauthorized access, Physical tampering and hardware failure
-  + **Cyber:** Denial of service attacks, data theft, data manipulation
+  + Physical: Unauthorized access, Physical tampering and hardware failure
+  + Cyber: Denial of service attacks, data theft, data manipulation
 * **Vulnerabilities:**
-   + **Physical:** Weak access controls, unpatched systems and insider threats
-   + **Cyber:** API security flaws, weak encryption and bias in AI models
+   + Physical: Weak access controls, unpatched systems and insider threats
+   + Cyber: API security flaws, weak encryption and bias in AI models
 * **Potential Impacts:**
-    + **Physical:** Operational disruption, system downtime and security breach
-    + **Digital:** Unauthorized transaction, identity theft and inaccurate lending decisions
+    + Physical: Operational disruption, system downtime and security breach
+    + Digital: Unauthorized transaction, identity theft and inaccurate lending decisions
 
 ## 3. Physical Security Measures
 
 * **Office Layout Design:**
-  + **Surveillance areas:** CCTV cameras in entry and exit points
+  + Surveillance areas: CCTV cameras in entry and exit points
 * monitoring of high-risk zones like workspaces and IT infrastructure areas
-  + **Access control points:** Main entrance with biometric authentication for employees
+  + Access control points: Main entrance with biometric authentication for employees
 * restricted areas such as server rooms, business and finance departments and executive offices having multifactor authentication
-  + **Safe zones:** Emergency exits in case of security threats
+  + Safe zones: Emergency exits in case of security threats
     - secure storage for sensitive documents
     - panic rooms or safe spaces for employees during emergencies
 * **Physical Barriers and Systems:**
-  + **Type of barriers:** Physical barriers such as fencing and controlled entry points to prevent unauthorized access
+  + Type of barriers: Physical barriers such as fencing and controlled entry points to prevent unauthorized access
     - secure entrances with proper control access
-  + **Security systems (alarms, cameras):** CCTV surveillance cameras which cover entry points, corridors, workspaces and server rooms
+  + Security systems (alarms, cameras): CCTV surveillance cameras which cover entry points, corridors, workspaces and server rooms
     - Emergency alarms such as fire alarms, intrusion detection systems and panic buttons in high risk zones
-  + **Access control mechanisms:** employees having access only to certain places based on their roles
+  + Access control mechanisms: employees having access only to certain places based on their roles
     - RFID based access for finance and IT departments
 * **Visitor and Employee Access Policies:**
   + All the visitors must register at the reception and should be accompanied within premises by an authorized employee
@@ -47,27 +47,27 @@
 ## 4. Cybersecurity Policies
 
 * **Password Management:**
-  + **Requirements:** A password should be 10 characters including both uppercase and lowercase as well as at least a number and special character
-  + **Change frequency:** mandatorily change password in every 4 months and avoid reusing old passwords
+  + Requirements: A password should be 10 characters including both uppercase and lowercase as well as at least a number and special character
+  + Change frequency: mandatorily change password in every 4 months and avoid reusing old passwords
 * **User Roles and Access Levels:**
-  + **Role based access:** Employees are assigned permissions only to places relevant for their job roles
-  + **Least privilege principle:** Users and employees get access only to resources they need for their job or task nothing extra
+  + Role based access: Employees are assigned permissions only to places relevant for their job roles
+  + Least privilege principle: Users and employees get access only to resources they need for their job or task nothing extra
 * **Account Lifecycle Management:**
-  + **Provisioning process:** Names of new employees are included in systems and databases and they receive role-based access and credentials after joining the organisation
-  + **Deprovisioning process:** immediate revocation of access and credentials and removal of name of the employees from systems and databases as soon as the exit the organization
+  + Provisioning process: Names of new employees are included in systems and databases and they receive role-based access and credentials after joining the organisation
+  + Deprovisioning process: immediate revocation of access and credentials and removal of name of the employees from systems and databases as soon as the exit the organization
 
 ## 5. Monitoring and Response Plans
 
 * **Monitoring Systems:**
-  + **Physical security:** 24/7 CCTV surveillance cameras at entry points and protected areas
+  + Physical security: 24/7 CCTV surveillance cameras at entry points and protected areas
     - Intrusion detection for unauthorized access using motion sensors and alarm systems
-  + **Cybersecurity:** Using tools like SIEM for real time monitoring of network traffic and system logs.
+  + Cybersecurity: Using tools like SIEM for real time monitoring of network traffic and system logs.
     - Ensuring endpoint security by installing antivirus software and firewall protection on employee devices and office equipments
 * **Incident Response Plan:**
-  + **Physical breach:** Take immediate action by activating emergency alarm system and notifying security personnel as well as other employees
+  + Physical breach: Take immediate action by activating emergency alarm system and notifying security personnel as well as other employees
     - Secure the affected areas and prevent any unauthorized action in those areas
     - Review CCTV footage and log books and records to find the main culprit behind this breach
-  + **Cyber breach:** identify the threat by detecting the affected systems and categorize the breach
+  + Cyber breach: identify the threat by detecting the affected systems and categorize the breach
     - Temporarily disable compromised accounts, apply security methods and restore the data through backups
     - Post incident analysis conduct digital forensic investigation and update cybersecurity protocols
 * **Communication Plan:** Automate internal alert systems such as emails/ SMS alerts for urgent security threats
@@ -96,8 +96,8 @@
 * **Review Schedule:** Conducting quarterly assessments for physical security systems and physical barriers to ensure their proper functionality
 * Perform monthly audits for cybersecurity systems and network vulnerabilities
 * **Maintenance Routines:**
-  + **Physical security systems:** Regular inspection of CCTV cameras, biometric sensors and ID verification tools to prevent hardware failure
-  + **Cybersecurity systems:**
+  + Physical security systems: Regular inspection of CCTV cameras, biometric sensors and ID verification tools to prevent hardware failure
+  + Cybersecurity systems:
   + Ensuring all security software and cloud-based systems are updated regularly to mitigate emerging threats
   + Conduct quarterly audits of user permission to revoke unnecessary access
 
@@ -113,10 +113,10 @@
     6. Education and training
     7. Maintenance and review
 * **Appendices:**
-  + **Quick-reference guides:** this mainly includes resources like
+  + Quick-reference guides: this mainly includes resources like
     1. Security reference blueprint for financial services which provides structured approach to securing financial institutions
     2. Data security and cybersecurity compliance for fintech startups which is a practical guide and covers concepts like regulatory framework, compliance strategies and security best practices
-  + **Emergency contacts:**
+  + Emergency contacts:
 1. Cybersecurity incident response team
 2. Regulatory and compliance authorities
 3. Cloud and IT infrastructure support
