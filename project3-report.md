@@ -27,9 +27,9 @@
 
 * **Office Layout Design:**
   + Surveillance areas: CCTV cameras in entry and exit points
-* monitoring of high-risk zones like workspaces and IT infrastructure areas
+* Monitoring of high-risk zones like workspaces and IT infrastructure areas
   + Access control points: Main entrance with biometric authentication for employees
-* restricted areas such as server rooms, business and finance departments and executive offices having multifactor authentication
+* Restricted areas such as server rooms, business and finance departments and executive offices having multifactor authentication
   + Safe zones: Emergency exits in case of security threats
     - Secure storage for sensitive documents
     - Panic rooms or safe spaces for employees during emergencies
