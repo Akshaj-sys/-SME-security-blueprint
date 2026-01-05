@@ -117,11 +117,20 @@
     1. Security reference blueprint for financial services which provides structured approach to securing financial institutions
     2. Data security and cybersecurity compliance for fintech startups which is a practical guide and covers concepts like regulatory framework, compliance strategies and security best practices
   + Emergency contacts:
-1. Cybersecurity incident response team
-2. Regulatory and compliance authorities
-3. Cloud and IT infrastructure support
-4. Legal and crisis communication team
-   * Glossary of terms: Security Blueprint (A strategic plan that outlines an organization's cybersecurity framework, policies, and safeguards); Fintech Startup (A newly established company that leverages technology to innovate and enhance financial services); Cluster-Based Lending Platform (A financial platform that facilitates lending by grouping borrowers into clusters, often based on geographical location, industry); API Security Flaws (Vulnerabilities in an application's programming interface (API) that can be exploited by attackers to gain unauthorized access); RFID (Radio-Frequency Identification) (A technology that uses electromagnetic fields to automatically identify and track objects); Digital Forensic Investigation (The process of collecting, analyzing, and preserving digital evidence from electronic devices to investigate cybercrimes); Compliance (The act of adhering to legal, regulatory, or industry-specific standards and requirements); Cyber Incident Simulation (A controlled exercise that replicates real-world cyber threats to assess an organization’s security readiness and response strategy); Quarterly Assessments (Evaluations conducted every three months to measure performance within an organisation); Cloud-Based Systems (Computing environments that store, process, and manage data over the internet rather than on local devices)
+    1. Cybersecurity incident response team
+    2. Regulatory and compliance authorities
+    3. Cloud and IT infrastructure support
+    4. Legal and crisis communication team
+  + Glossary of terms: Security Blueprint (A strategic plan that outlines an organization's cybersecurity framework, policies, and safeguards)
+  + Fintech Startup (A newly established company that leverages technology to innovate and enhance financial services)
+  + Cluster-Based Lending Platform (A financial platform that facilitates lending by grouping borrowers into clusters, often based on geographical location, industry)
+  +  API Security Flaws (Vulnerabilities in an application's programming interface (API) that can be exploited by attackers to gain unauthorized access)
+  +  RFID (Radio-Frequency Identification) (A technology that uses electromagnetic fields to automatically identify and track objects)
+  +  Digital Forensic Investigation (The process of collecting, analyzing, and preserving digital evidence from electronic devices to investigate cybercrimes)
+  +  Compliance (The act of adhering to legal, regulatory, or industry-specific standards and requirements)
+  +  Cyber Incident Simulation (A controlled exercise that replicates real-world cyber threats to assess an organization’s security readiness and response strategy)
+  +  Quarterly Assessments (Evaluations conducted every three months to measure performance within an organisation)
+  +  Cloud-Based Systems (Computing environments that store, process, and manage data over the internet rather than on local devices)
 
 ## 9. Presentation
 
