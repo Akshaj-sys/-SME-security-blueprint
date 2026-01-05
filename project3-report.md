@@ -1,8 +1,7 @@
 
+# SME Security Blueprint Design Template
 
-**SME Security Blueprint Design Template**
-
-**1. Project Scope**
+## 1. Project Scope
 
 * **SME Description:**
   + **Type of business:** Aye finance is a fintech startup providing business loans to small and micro businesses in India
@@ -12,7 +11,7 @@
   + **Physical:** Office infrastructure, data centres and IT hardware
   + **Digital:** Cluster based lending platform, customer data and analytics
 
-**2. Risk Assessment**
+## 2. Risk Assessment
 
 * **Identified Threats:**
   + **Physical:** Unauthorized access, Physical tampering and hardware failure
@@ -24,7 +23,7 @@
     + **Physical:** Operational disruption, system downtime and security breach
     + **Digital:** Unauthorized transaction, identity theft and inaccurate lending decisions
 
-**3. Physical Security Measures**
+## 3. Physical Security Measures
 
 * **Office Layout Design:**
   + **Surveillance areas:** CCTV cameras in entry and exit points
@@ -45,7 +44,7 @@
   + All the visitors must register at the reception and should be accompanied within premises by an authorized employee
   + Employees can only access areas which are relevant to their job function. Secure authentication for restricted zones
 
-**4. Cybersecurity Policies**
+## 4. Cybersecurity Policies
 
 * **Password Management:**
   + **Requirements:** A password should be 10 characters including both uppercase and lowercase as well as at least a number and special character
@@ -57,7 +56,7 @@
   + **Provisioning process:** Names of new employees are included in systems and databases and they receive role-based access and credentials after joining the organisation
   + **Deprovisioning process:** immediate revocation of access and credentials and removal of name of the employees from systems and databases as soon as the exit the organization
 
-**5. Monitoring and Response Plans**
+## 5. Monitoring and Response Plans
 
 * **Monitoring Systems:**
   + **Physical security:** 24/7 CCTV surveillance cameras at entry points and protected areas
@@ -75,7 +74,7 @@
 * Have dedicated security personnels or crisis handling teams to handle such physical and cyber incidents
 * Have compliance with data protection laws and proper communication with the customers who have been affected by such incidents
 
-**6. Education and Training**
+## 6. Education and Training
 
 * **Security Awareness Training:**
   + **Topics:**
@@ -92,7 +91,7 @@
   + **Schedule:** Fire safety and intrusion response drills are conducted in every 6 months
   + Live threat simulations to test response readiness and other cybersecurity exercises are conducted in every 6 months
 
-**7. Maintenance and Review**
+## 7. Maintenance and Review
 
 * **Review Schedule:** Conducting quarterly assessments for physical security systems and physical barriers to ensure their proper functionality
 * Perform monthly audits for cybersecurity systems and network vulnerabilities
@@ -102,7 +101,7 @@
   + Ensuring all security software and cloud-based systems are updated regularly to mitigate emerging threats
   + Conduct quarterly audits of user permission to revoke unnecessary access
 
-**8. Documentation**
+## 8. Documentation
 
 * **Blueprint Document:**
   + Sections included:
@@ -124,7 +123,7 @@
 4. Legal and crisis communication team
    * Glossary of terms: Security Blueprint (A strategic plan that outlines an organization's cybersecurity framework, policies, and safeguards); Fintech Startup (A newly established company that leverages technology to innovate and enhance financial services); Cluster-Based Lending Platform (A financial platform that facilitates lending by grouping borrowers into clusters, often based on geographical location, industry); API Security Flaws (Vulnerabilities in an application's programming interface (API) that can be exploited by attackers to gain unauthorized access); RFID (Radio-Frequency Identification) (A technology that uses electromagnetic fields to automatically identify and track objects); Digital Forensic Investigation (The process of collecting, analyzing, and preserving digital evidence from electronic devices to investigate cybercrimes); Compliance (The act of adhering to legal, regulatory, or industry-specific standards and requirements); Cyber Incident Simulation (A controlled exercise that replicates real-world cyber threats to assess an organization’s security readiness and response strategy); Quarterly Assessments (Evaluations conducted every three months to measure performance within an organisation); Cloud-Based Systems (Computing environments that store, process, and manage data over the internet rather than on local devices)
 
-**9. Presentation**
+## 9. Presentation
 
 * **Summary of Key Points:**
   + Aye finance is a fintech startup headquartered in Gurugram providing loan to small businesses in India
@@ -145,7 +144,7 @@ Cybersecurity team of the organization, employees, banking partners, regulatory 
 * **Presentation Medium:**
 Word document, PowerPoint presentation and a video explaining these concepts
 
-**10. Reflection**
+## 10. Reflection
 
 * **Challenges Faced:**
   + Balancing security and user experience: strong security measures secure the company but slow down other processes
