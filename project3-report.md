@@ -31,11 +31,11 @@
   + Access control points: Main entrance with biometric authentication for employees
 * restricted areas such as server rooms, business and finance departments and executive offices having multifactor authentication
   + Safe zones: Emergency exits in case of security threats
-    - secure storage for sensitive documents
-    - panic rooms or safe spaces for employees during emergencies
+    - Secure storage for sensitive documents
+    - Panic rooms or safe spaces for employees during emergencies
 * **Physical Barriers and Systems:**
   + Type of barriers: Physical barriers such as fencing and controlled entry points to prevent unauthorized access
-    - secure entrances with proper control access
+    - Secure entrances with proper control access
   + Security systems (alarms, cameras): CCTV surveillance cameras which cover entry points, corridors, workspaces and server rooms
     - Emergency alarms such as fire alarms, intrusion detection systems and panic buttons in high risk zones
   + Access control mechanisms: employees having access only to certain places based on their roles
