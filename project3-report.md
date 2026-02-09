@@ -1,31 +1,30 @@
-
 # SME Security Blueprint Design Template
 
 ## 1. Project Scope
 
-* **SME Description:**
+### SME Description:
   + Type of business: Aye finance is a fintech startup providing business loans to small and micro businesses in India
   + Number of employees: 9569 employees
   + Location(s): Gurugram, Haryana
-* **Key Assets:**
+### Key Assets:
   + Physical: Office infrastructure, data centres and IT hardware
   + Digital: Cluster based lending platform, customer data and analytics
 
 ## 2. Risk Assessment
 
-* **Identified Threats:**
+### Identified Threats:
   + Physical: Unauthorized access, Physical tampering and hardware failure
   + Cyber: Denial of service attacks, data theft, data manipulation
-* **Vulnerabilities:**
+### Vulnerabilities:
    + Physical: Weak access controls, unpatched systems and insider threats
    + Cyber: API security flaws, weak encryption and bias in AI models
-* **Potential Impacts:**
+### Potential Impacts:
     + Physical: Operational disruption, system downtime and security breach
     + Digital: Unauthorized transaction, identity theft and inaccurate lending decisions
 
 ## 3. Physical Security Measures
 
-* **Office Layout Design:**
+### Office Layout Design:
   + Surveillance areas: CCTV cameras in entry and exit points
 * Monitoring of high-risk zones like workspaces and IT infrastructure areas
   + Access control points: Main entrance with biometric authentication for employees
@@ -33,37 +32,37 @@
   + Safe zones: Emergency exits in case of security threats
     - Secure storage for sensitive documents
     - Panic rooms or safe spaces for employees during emergencies
-* **Physical Barriers and Systems:**
+  ### Physical Barriers and Systems:
   + Type of barriers: Physical barriers such as fencing and controlled entry points to prevent unauthorized access
     - Secure entrances with proper control access
   + Security systems (alarms, cameras): CCTV surveillance cameras which cover entry points, corridors, workspaces and server rooms
     - Emergency alarms such as fire alarms, intrusion detection systems and panic buttons in high risk zones
   + Access control mechanisms: employees having access only to certain places based on their roles
     - RFID based access for finance and IT departments
-* **Visitor and Employee Access Policies:**
+  ### Visitor and Employee Access Policies:
   + All the visitors must register at the reception and should be accompanied within premises by an authorized employee
   + Employees can only access areas which are relevant to their job function. Secure authentication for restricted zones
 
 ## 4. Cybersecurity Policies
 
-* **Password Management:**
+### Password Management:
   + Requirements: A password should be 10 characters including both uppercase and lowercase as well as at least a number and special character
   + Change frequency: mandatorily change password in every 4 months and avoid reusing old passwords
-* **User Roles and Access Levels:**
+### User Roles and Access Levels:
   + Role based access: Employees are assigned permissions only to places relevant for their job roles
   + Least privilege principle: Users and employees get access only to resources they need for their job or task nothing extra
-* **Account Lifecycle Management:**
+### Account Lifecycle Management:
   + Provisioning process: Names of new employees are included in systems and databases and they receive role-based access and credentials after joining the organisation
   + Deprovisioning process: immediate revocation of access and credentials and removal of name of the employees from systems and databases as soon as the exit the organization
 
 ## 5. Monitoring and Response Plans
 
-* **Monitoring Systems:**
+### Monitoring Systems:
   + Physical security: 24/7 CCTV surveillance cameras at entry points and protected areas
     - Intrusion detection for unauthorized access using motion sensors and alarm systems
   + Cybersecurity: Using tools like SIEM for real time monitoring of network traffic and system logs.
     - Ensuring endpoint security by installing antivirus software and firewall protection on employee devices and office equipments
-* **Incident Response Plan:**
+### Incident Response Plan:
   + Physical breach: Take immediate action by activating emergency alarm system and notifying security personnel as well as other employees
     - Secure the affected areas and prevent any unauthorized action in those areas
     - Review CCTV footage and log books and records to find the main culprit behind this breach
@@ -76,7 +75,7 @@
 
 ## 6. Education and Training
 
-* **Security Awareness Training:**
+### Security Awareness Training:
   + **Topics:**
   + Cyber hygiene which includes best practises for password management, and phishing detection
   + Data protection which involves handling sensitive financial information securely
@@ -84,7 +83,7 @@
   + **Frequency:**
   + General awareness training is conducted quarterly for all employees
   + Advanced security training is conducted for IT and finance teams once in every year
-* **Drills and Exercises:**
+### Drills and Exercises:
   + **Types:**
   + Physical security drills which involves emergency evacuation practises in case of fire or security breach
   + Cyber incident simulation which educates us about cyber incidents through phishing attack scenarios and real time cyberattack response exercises
@@ -95,7 +94,7 @@
 
 * **Review Schedule:** Conducting quarterly assessments for physical security systems and physical barriers to ensure their proper functionality
 * Perform monthly audits for cybersecurity systems and network vulnerabilities
-* **Maintenance Routines:**
+  ### Maintenance Routines:
   + Physical security systems: Regular inspection of CCTV cameras, biometric sensors and ID verification tools to prevent hardware failure
   + Cybersecurity systems:
   + Ensuring all security software and cloud-based systems are updated regularly to mitigate emerging threats
@@ -103,7 +102,7 @@
 
 ## 8. Documentation
 
-* **Blueprint Document:**
+### Blueprint Document:
   + Sections included:
     1. Scope of the project
     2. Risk assessment
@@ -112,7 +111,7 @@
     5. Monitoring and response plans
     6. Education and training
     7. Maintenance and review
-* **Appendices:**
+### Appendices:
   + Quick-reference guides: this mainly includes resources like
     1. Security reference blueprint for financial services which provides structured approach to securing financial institutions
     2. Data security and cybersecurity compliance for fintech startups which is a practical guide and covers concepts like regulatory framework, compliance strategies and security best practices
@@ -135,7 +134,7 @@
 
 ## 9. Presentation
 
-* **Summary of Key Points:**
+### Summary of Key Points:
   + Aye finance is a fintech startup headquartered in Gurugram providing loan to small businesses in India
   + The key assets include physical assets like office infrastructure, data centres and IT hardware as well as digital assets like cluster-based lending platform and customer data and analysis
   + Some identified threats include physical threats such as unauthorized access, physical tampering and hardware failure as well as digital threats such as denial of service attack data theft and data manipulation
@@ -156,22 +155,22 @@ Word document, PowerPoint presentation and a video explaining these concepts
 
 ## 10. Reflection
 
-* **Challenges Faced:**
+### Challenges Faced:
   + Balancing security and user experience: strong security measures secure the company but slow down other processes
   + Integrating security across multiple systems: Fintech startups rely on cloud platforms and banking APIs and ensuring proper security along all these interconnected devices can be complex
   + Managing emerging cyber threats: new threats like AI driven cyber attacks and ransomware attacks are increasingly becoming common
   + Even the best security systems and blueprints fail if employee and third party vendors lack awareness and do not follow best cybersecurity practices
-* **Solutions and Over comings:**
+### Solutions and Over comings:
   + Balancing security concerns as well as user experience for seamless security without user inconvenience
   + Secure integration across multiple systems using tricks such as zero trust architecture and regular API audits
   + Use AI driven threat detection tools to detect cyber threats before they escalate and conduct quarterly penetration testing for systems
   + Build a strong security culture among the employees as well as third party vendors
-* **Areas for Improvement:**
+### Areas for Improvement:
   + Advanced fraud prevention and transaction security using emerging technologies like machine leaning based fraud detection
   + Strong insider threat mitigation policies to limit excessive employee privilege
   + Secure mobile and API ecosystem and encryption
   + Conduct comprehensive risk assessment in every 6 months to get holistic security posture review
-* **Future Enhancements:**
+### Future Enhancements:
   + Introduction of best practices for cloud security
   + Integrating artificial intelligence and machine learning (AIML) into cybersecurity which helps in automating security responses
   + Strengthening identity access and management (IAM)
