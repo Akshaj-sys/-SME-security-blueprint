@@ -32,14 +32,14 @@
   + Safe zones: Emergency exits in case of security threats
     - Secure storage for sensitive documents
     - Panic rooms or safe spaces for employees during emergencies
-  ### Physical Barriers and Systems:
+### Physical Barriers and Systems:
   + Type of barriers: Physical barriers such as fencing and controlled entry points to prevent unauthorized access
     - Secure entrances with proper control access
   + Security systems (alarms, cameras): CCTV surveillance cameras which cover entry points, corridors, workspaces and server rooms
     - Emergency alarms such as fire alarms, intrusion detection systems and panic buttons in high risk zones
   + Access control mechanisms: employees having access only to certain places based on their roles
     - RFID based access for finance and IT departments
-  ### Visitor and Employee Access Policies:
+### Visitor and Employee Access Policies:
   + All the visitors must register at the reception and should be accompanied within premises by an authorized employee
   + Employees can only access areas which are relevant to their job function. Secure authentication for restricted zones
 
@@ -94,7 +94,7 @@
 
 * **Review Schedule:** Conducting quarterly assessments for physical security systems and physical barriers to ensure their proper functionality
 * Perform monthly audits for cybersecurity systems and network vulnerabilities
-  ### Maintenance Routines:
+### Maintenance Routines:
   + Physical security systems: Regular inspection of CCTV cameras, biometric sensors and ID verification tools to prevent hardware failure
   + Cybersecurity systems:
   + Ensuring all security software and cloud-based systems are updated regularly to mitigate emerging threats
